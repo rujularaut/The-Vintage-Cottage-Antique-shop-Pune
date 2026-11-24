@@ -16,4 +16,4 @@ npm run build
 npm run preview
 ```
 
-This project contains only public informational routes. It does not provide accounts, carts, checkout, payments, newsletters or a contact form.
+This project contains only public informational routes. It does not provide accounts, carts, checkout, payments, newsletters or a contact form
