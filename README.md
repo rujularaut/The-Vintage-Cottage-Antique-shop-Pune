@@ -1,4 +1,4 @@
-# The Vintage Cottage
+# The Vintage Cottage 
 
 Informational Vite/React website for The Vintage Cottage antique shop in Pune.
 
